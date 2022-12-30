@@ -12,5 +12,6 @@ https://github.com/PaulaDev21/QA_GTF_Bootcamp_JIRA/blob/main/Swag%20Lab%20Projec
 ## Entregável 3: Documento com casos de teste
 https://github.com/PaulaDev21/QA_GTF_Bootcamp_JIRA/blob/main/SwagLabProjectTestPlan.pdf
 
-## Entregável 4: Mapa mental com diferentes cenários para a estória de usuário "Inserir Produto"
+## Entregável 4: Mapa mental com diferentes cenários para a estória de usuário "Inserir Produto":
+https://github.com/PaulaDev21/QA_GTF_Bootcamp_JIRA/blob/main/mindMapWithUserStoryScenarios.png
 
